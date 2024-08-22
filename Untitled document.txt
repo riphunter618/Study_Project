@@ -1,0 +1,13 @@
+﻿Work Plan
+
+
+This project mainly focuses on compiling and analyzing road and traffic data to determine optimal locations for electronic vehicle (EVs) charging stations. The objective is to make use of various optimization and pathfinding algorithms to determine these locations.
+
+
+This work is very necessary especially in times like these as the use of EVs has only grown throughout the years as they are seen as a better alternative to regular vehicles. “Combined sales of plug-in electric cars and light-duty commercial vans since 2010 achieved the 10 million unit milestone by the end of 2020. Just a year and a half later, the combined sales doubled to 20 million in June 2022.”  This is a direct quote highlighting the need for this project. 
+
+
+For this project, I have referenced an open source road data website called “openstreetmap.com” which is a collection of data provided independently for anyone to use.  This data comes in a highly non-user friendly structure so I also plan to use a module to transform this data to be more readable and usable. 
+
+
+As a test case I plan to take a small area and implement several pathfinding algorithms on this to see if the results are workable.
