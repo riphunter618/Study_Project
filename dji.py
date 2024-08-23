@@ -39,6 +39,3 @@ class Graph:
                         distances[v] = alt
 
         return distances
-
-
-g = Graph(7)
